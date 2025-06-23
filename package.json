@@ -1,0 +1,25 @@
+{
+  "name": "goit-js-hw-11-handlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poseydon12/goit-js-hw-11-handlebars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poseydon12/goit-js-hw-11-handlebars/issues"
+  },
+  "homepage": "https://github.com/Poseydon12/goit-js-hw-11-handlebars#readme",
+  "dependencies": {
+    "handlebars": "^4.7.8",
+    "parcel-plugin-handlebars-precompile": "^1.0.2"
+  }
+}
